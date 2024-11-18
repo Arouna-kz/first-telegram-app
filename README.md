@@ -10,6 +10,9 @@ Currently, two official plugins are available:
 ## LIEN DU GUIDE DE LA CREATION DE TELEMGRAM MINI APP (TMA)
 https://docs.ton.org/v3/guidelines/dapps/tma/tutorials/app-examples 
 
+## Configuration d'un bot pour l' application
+https://docs.ton.org/v3/guidelines/dapps/tma/tutorials/step-by-step-guide#setting-up-a-bot-for-the-app
+
 ## LIEN DE LA DOCUMENTATION DE NGROK
 https://dashboard.ngrok.com/get-started/setup/windows
 
